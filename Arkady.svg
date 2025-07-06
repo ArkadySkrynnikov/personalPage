@@ -1,0 +1,24 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="15" fill="#FFD573"/>
+    <circle cx="16" cy="16" r="15" stroke="black" stroke-width="0.5"/>
+
+    <rect x="6" y="7" width="20" height="14" rx="2" stroke="black" stroke-width="0.5" fill="white"/>
+
+    <rect x="6.5" y="7.5" width="19" height="13" rx="1.5" fill="lightgray"/>
+
+    <line x1="12" y1="22.5" x2="20" y2="22.5" stroke="black" stroke-width="1"/>
+    <line x1="10" y1="24" x2="22" y2="24" stroke="black" stroke-width="1"/>
+
+    <rect x="16.5" y="8.5" width="5.5" height="4.9" rx="0.5" fill="#057D9F"/>
+
+    <circle cx="19.2" cy="10.5" r="1.5"  stroke-width="0.5" fill="white"/>
+
+
+    <line x1="10" y1="9" x2="16" y2="9" stroke="black" stroke-width="0.5"/>
+    <line x1="10" y1="11" x2="16" y2="11" stroke="black" stroke-width="0.5"/>
+    <line x1="10" y1="13" x2="16" y2="13" stroke="black" stroke-width="0.5"/>
+    <line x1="10" y1="15" x2="22" y2="15" stroke="black" stroke-width="0.5"/>
+
+    <line x1="10" y1="17" x2="22" y2="17" stroke="black" stroke-width="0.5"/>
+    <line x1="10" y1="19" x2="22" y2="19" stroke="black" stroke-width="0.5"/>
+</svg>
