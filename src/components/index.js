@@ -1,0 +1,1 @@
+export { registerArkButtonComponent } from './Button/Button.js'
