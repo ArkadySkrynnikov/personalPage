@@ -3,3 +3,14 @@
     height: 100vh;
     background-color: var(--bg);
 }
+
+.header {
+    width: 60%;
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}

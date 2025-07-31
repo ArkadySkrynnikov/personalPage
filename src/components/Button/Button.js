@@ -4,7 +4,10 @@ class Button extends HTMLElement {
     }
 
     connectedCallback() {
-        this.textContent = 'arkady-button'
+        if (!this.querySelector('button')) {
+            this.append(document.createElement('button'));
+        }
+        this.update();
     }
 
     disconnectedCallback() {}
