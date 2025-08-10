@@ -21,7 +21,7 @@ class Link extends HTMLElement {
         event.preventDefault()
 
         this.dispatchEvent(new CustomEvent('link-click', {
-            detail: { href: this.getAttribute('href')},
+            detail: { href: this.getAttribute('href'), id: this.getAttribute('id')},
             bubbles: true,
             composed: true
         }));
